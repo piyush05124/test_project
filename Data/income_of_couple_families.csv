@@ -1,0 +1,58 @@
+﻿"Distribution of total income by census family type and age of older partner, parent or individual c 1 2 3 4"
+"Frequency: Annual"
+"Table: 11-10-0012-01 (formerly CANSIM 111-0012)"
+"Release date: 2023-07-12"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+""
+""
+
+,"Age of older adult 4","0 to 24 years 4",,,,,,,,,,,,,,,,,,,,
+,"Family income 3","Median total income 3 9",,,,,,,,,,,,,,,,,,,,
+"Geography 5","Family type 2 6 7 8","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
+,,"Dollars",,,,,,,,,,,,,,,,,,,,
+"Newfoundland and Labrador","Couple families 6","22,400","22,300","23,400","24,200","24,400","26,900","29,990","30,890","31,570","33,740","37,000","40,130","40,610","42,920","43,850","41,650","41,690","41,220","41,200","50,210","49,700"
+"Prince Edward Island",,"28,600","29,100","28,500","28,300","29,400","32,900","34,200","35,110","34,260","35,840","35,690","36,800","37,530","37,390","39,810","40,050","42,500","44,790","45,020","56,690","57,680"
+"Nova Scotia",,"24,900","26,200","26,000","26,100","28,800","30,000","31,380","32,640","32,630","33,390","33,930","34,710","34,870","35,620","36,720","38,050","38,620","38,070","38,390","49,370","52,420"
+"New Brunswick",,"28,500","28,700","29,200","29,800","30,000","31,600","32,570","33,860","34,720","36,270","36,790","37,520","38,240","39,140","41,180","41,780","44,040","45,010","46,630","55,890","57,590"
+"Quebec",,"30,100","30,400","31,800","32,000","33,100","33,600","34,590","36,060","35,580","36,520","37,640","39,780","39,920","40,400","40,750","41,270","43,280","44,390","45,250","54,660","54,580"
+"Ontario",,"28,100","27,000","27,100","27,500","28,300","29,000","29,280","29,470","27,900","29,220","29,860","29,730","29,950","31,530","32,640","33,190","33,910","35,190","34,780","45,180","42,440"
+"Manitoba",,"28,100","28,400","28,800","29,300","30,600","32,200","33,880","35,530","35,690","36,430","35,950","37,740","38,550","39,880","39,510","38,900","39,890","40,150","39,610","50,220","50,810"
+"Saskatchewan",,"29,000","29,000","30,100","30,700","33,100","36,200","39,330","42,620","43,180","42,850","45,260","47,720","49,100","50,170","48,510","45,540","45,760","43,470","43,230","52,250","48,550"
+"Alberta",,"34,300","34,400","36,200","37,300","41,800","47,700","50,150","53,010","50,940","50,200","52,400","55,140","55,800","57,380","56,080","51,220","51,700","51,440","49,910","56,880","55,900"
+"British Columbia",,"27,800","27,100","27,200","28,700","31,500","34,100","36,200","37,440","34,150","32,800","32,930","34,750","35,370","36,300","37,060","37,990","39,000","38,930","39,350","51,040","49,310"
+"Yukon",,"28,600","29,800","30,700","36,600","36,900","34,300","47,870","45,820","41,280","47,280","50,300","51,050","44,430","45,830","48,180","46,220","51,170","49,060","56,970","65,000","68,560"
+"Northwest Territories",,"33,000","34,700","35,300","35,200","38,900","44,300","42,930","39,370","42,970","47,490","39,550","45,310","40,450","41,580","34,780","37,750","38,580","46,880","47,050","62,140","64,910"
+"Nunavut",,"21,000","20,800","21,500","22,500","23,000","25,600","26,160","26,340","26,690","30,890","28,720","28,740","29,260","27,990","29,860","31,590","34,570","35,390","38,570","43,840","39,770"
+"Campbellton, combined NewBrunswick/Quebec 10",,"..","..","..","..","..","..","..","27,500","26,660","30,520","34,260","31,200","23,200","27,040","31,890","36,660","39,000","37,460","41,740","56,860","49,240"
+"Hawkesbury, combined Ontario/Quebec 10",,"..","..","..","..","..","..","..","34,100","34,060","35,160","36,860","34,140","32,880","31,990","37,060","39,120","38,070","49,180","36,440","54,690","57,880"
+"Ottawa - Gatineau, combined Ontario/Quebec 10 11 12",,"..","..","..","..","..","..","..","34,450","35,350","36,180","35,420","35,550","35,640","36,150","36,900","35,830","38,290","39,490","40,200","50,810","49,880"
+"Lloydminster, combined Alberta/Saskatchewan 10",,"..","..","..","..","..","..","..","73,170","66,350","71,520","73,700","77,420","83,710","88,160","78,420","68,490","60,560","63,510","67,160","64,360","59,740"
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+"Table Corrections:"
+Date,Note
+"","On August 11, 2021, a correction was made to the values associated with the total income concept for 2019."
+
+
+
+Footnotes:
+1,"The data source for this table is the final version of the T1 Family File, created by the Centre for Income and Socio-Economic Well-being Statistics of Statistics Canada. Because they are based on a different methodology, estimates of the number of individuals and census families presented in this table differ from estimates produced by the Centre for Demography. Information on the data source, the historical availability, definitions of the terms used, and the geographies available can be found at <a href="https://www150.statcan.gc.ca/n1/en/catalogue/72-212-X" rel="external noopener noreferrer" target="_blank"> Technical Reference Guide for the Annual Income Estimates for Census Families, Individuals and Seniors <span class="wb-inv"> - opens in a new browser window</span></a>."
+2,"Families are comprised of: 1) couples (married or common-law, including same-sex couples) living in the same dwelling with or without children, and 2) single parents (male or female) living with one or more children. Persons who are not matched to a family become persons not in census families. They may be living alone, with a family to whom they are related, with a family to whom they are unrelated or with other persons not in census families. Beginning in 2001, same-sex couples reporting as couples are counted as couple families."
+3,"Family income is the sum of the incomes of all members of the family. As of 2020, COVID-19 - Government income support and benefits are included in income estimates.  A detailed definition of what is included in total income is available from the <a href="https://www150.statcan.gc.ca/n1/en/catalogue/72-212-X" rel="external noopener noreferrer" target="_blank"> Technical Reference Guide for the Annual Income Estimates for Census Families, Individuals and Seniors <span class="wb-inv"> - opens in a new browser window</span></a>."
+4,"Characteristics such as age are as of December 31 of the reference year."
+5,"The Census Standard Geographical Classification (SGC) is used for data dissemination of the census metropolitan areas and the census agglomerations: from 1997 to 2001, SGC 1996; from 2002 to 2006, SGC 2001; from 2007 to 2011, SGC 2006; from 2012 to 2016, SGC 2011; from 2016 to 2020, SGC 2016; as of 2021, SGC 2021.  Please note that census agglomerations were introduced in this CANSIM table in 2008."
+6,"A couple family consists of a couple living together (married or common-law, including same-sex couples) living at the same address with or without children. Beginning in 2001, same-sex couples reporting as couples are counted as couple families."
+7,"A lone-parent family is a family with only one parent, male or female, and with at least one child."
+8,"A person not in census families is an individual who is not part of a census family, couple family or lone-parent family. Persons not in census families may live with their married children or with their children who have children of their own. They may be living with a family to whom they are related or unrelated. They may also be living alone or with other non-family persons."
+9,"Median is the middle number in a group of numbers. Where a median income, for example, is given as $26,000, it means that exactly half of the incomes reported are greater than or equal to $26,000, and that the other half is less than or equal to the median amount. Starting in 2007, median incomes in the data tables are rounded to the nearest ten dollars (prior to 2007 they were rounded to the nearest hundred dollars). Zero values are not included in the calculation of medians for individuals."
+10,"The census metropolitan area (CMA) of Ottawa-Gatineau straddles the provincial borders of Ontario and Quebec. Three census agglomerations (CA) also straddle provincial borders: Campbellton straddles New Brunswick and Quebec, Hawkesbury straddles Ontario and Quebec, and Lloydminster straddles Alberta and Saskatchewan. Data for the combined provincial parts are provided at the end of the list of CMAs and CAs. Prior to 2008, data for the two parts of the Ottawa-Gatineau CMA may be added together to provide a total for the area, with the exception of medians, percentages, indexes and averages."
+11,"As of 2016, the census agglomeration (CA) of Saint-Jean-sur-Richelieu has been merged into the census metropolitan area (CMA) of Montréal. As of 2021, the census agglomeration (CA) of Leamington has been merged into the census metropolitan area (CMA) of Windsor and the census agglomerations (CA) of Arnprior and of Carleton Place have been merged into the census metropolitan area (CMA) of Ottawa-Gatineau."
+12,"Changes have been made to this geographical area in 2021.  More information is available through the <a href=https://www150.statcan.gc.ca/n1/en/catalogue/11260001 target="_blank">Technical Reference Guide for the Preliminary Estimates from the T1 Family File (T1FF)<span class="wb-inv"> - opens in a new browser window</span></a>."
+
+
+
+"How to cite: Statistics Canada. Table 11-10-0012-01  Distribution of total income by census family type and age of older partner, parent or individual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110001201
